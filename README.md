@@ -58,12 +58,12 @@
 ---
 
 ### 📈 GitHub at a glance
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sadraberangi&show_icons=true&hide_rank=false" />
+<p align="left"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=MahanVeisi8&theme=onedark&margin-w=2&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars,Followers" alt="Trophies" /> 
 </p>
-<p align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadraberangi&layout=compact" />
-</p>
+
+![Sadra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahanVeisi8&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahanVeisi8&layout=compact&theme=radical)
 
 ---
 
