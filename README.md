@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Sadra Berangi 👋</h1>
 <p align="center">
   <b>Student · ML Engineer · Researcher</b><br>
-  Reinforcement Learning · Computer Vision · Robotics · Medical AI
+   Computer Vision · Reinforcement Learning · Robotics · Medical AI
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 🚀 About me
 - B.Sc. in Computer Science @ Shahid Beheshti University (GPA: 18.26/20, top 0.5%).  
-- Passionate about **RL**, **vision**, and **trustworthy AI**; blending research with real-world UAV/robotics projects.  
+- Passionate about **RL**, **vision**, and **XAI**; blending research with real-world robotics projects.  
 - IELTS 7.5.  
 - Currently exploring **personalized diffusion**, **vision–language**, and **interpretable models**.
 
